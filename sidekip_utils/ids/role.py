@@ -9,6 +9,7 @@ assistant = 803132803491037215
 moderator = 276869174633168898
 support = 985764962100187197
 
+
 roles_moderator = [owner, moderator]
 roles_heldesk_support_team = [owner, moderator, support]
 roles_kipperz_staff = [owner, director, coordinator, staff, assistant]
