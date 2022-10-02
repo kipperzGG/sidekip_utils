@@ -4,10 +4,10 @@ VERSION = '0.0.1'
 
 # Setting up
 setup(
-    name="vidstream",
+    name="sidekip_utils",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
-    author_email="<mail@neuralnine.com>",
+    author="kipperz",
+    author_email="<kip@kipperz.gg>",
     description="sidekip Utilities",
     long_description_content_type="text/markdown",
     packages=find_packages(),
