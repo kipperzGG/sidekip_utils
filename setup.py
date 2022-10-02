@@ -1,6 +1,4 @@
 from setuptools import setup, find_packages
-import codecs
-import os
 
 VERSION = '0.0.1'
 
@@ -14,6 +12,8 @@ setup(
     long_description_content_type="text/markdown",
     packages=find_packages(),
     install_requires=[],
-    keywords=[],
-    classifiers=[]
+    python_requires='>=3.8.0',
+    classifiers=[
+        'Natural Language :: English',
+    ]
 )
